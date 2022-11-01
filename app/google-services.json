@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212960856357",
+    "project_id": "newpushnotiy",
+    "storage_bucket": "newpushnotiy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212960856357:android:8841db6b2bb874eb77b2cc",
+        "android_client_info": {
+          "package_name": "com.fsl.pushnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212960856357-6b6c633i1cqco4uvqi70k7a5m1m2hr1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8x1CLy55DznKDBCee0KQhfU1KXsHE0Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212960856357-6b6c633i1cqco4uvqi70k7a5m1m2hr1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
